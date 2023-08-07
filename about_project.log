@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.27)  7 AUG 2023 20:55
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.27)  8 AUG 2023 08:51
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/haru/github/Chrous/about_project.tex
@@ -652,7 +652,7 @@ Here is how much of LuaTeX's memory you used:
  37 fonts using 28535975 bytes
  107i,5n,102p,1787b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2023/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf>
-Output written on about_project.pdf (2 pages, 50586 bytes).
+Output written on about_project.pdf (2 pages, 50482 bytes).
 
 PDF statistics: 58 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
